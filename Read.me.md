@@ -15,12 +15,11 @@ Eyes in the woods é um jogo 2D de plataforma baseado em jogos clássicos como o
   
 ## Processo de Desenvolvimento
 
-Através das ferramentas Aseprite, Unity e FL Studio está sendo construido o game, sendo o Aseprite utilizado para a criação dos  sprites 2D e as animações do game, já o Unity está sendo utilizado para a criação da fisica, movientação, criação de mapas e todas as outras mecanicas do jogo e o FL Studio está sendo utilizado para a criação dos efeitos sonoros e trilhas sonoras.
-
+Através das ferramentas Aseprite, Unity e FL Studio está sendo construído o game, sendo o Aseprite utilizado para a criação dos  sprites 2D e as animações do game, já o Unity está sendo utilizado para a criação da física, movimentação, criação de mapas e todas as outras mecânicas do jogo e o FL Studio está sendo utilizado para a criação dos efeitos sonoros e trilhas sonoras.
   
 ## Descrição das Fases 
 
-- *Primeira Fase* : A primeira fase se passa em um ambiente de floresta onde o jogo tem o objetivo de ensinar o jogador as mecanicas basicas sem se precupar com muitos inimigos tendo tempo para assimilar as mecanicas, e no final da primeira fase ele encontrara o primeiro boss.
+- *Primeira Fase* : A primeira fase se passa em um ambiente de floresta onde o jogo tem o objetivo de ensinar o jogador as mecânicas básicas sem se preocupar com muitos inimigos tendo tempo para assimilar as mecânicas, e no final da primeira fase ele encontrara o primeiro boss.
    
    - Inimigos Presentes: Fogo-Fáuto , Bradador, Cabra-Cabriola.
    
