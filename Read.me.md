@@ -1,6 +1,8 @@
+![Logo](https://github.com/Saz0n/teste/blob/main/caveira_cabra-export.png)
+
 # Projeto Eyes in the Woods
 
-Eyes in the woods é um jogo 2D de plataforma baseado em jogo clássicos como os da serie Castelvania, sendo um jogo que se passa na  floresta Amazônica onde o protagonista tem o objetivo de descobrir oque aconteceu o resto de sua equipe de biólogos.
+Eyes in the woods é um jogo 2D de plataforma baseado em jogos clássicos como os da Séries Castelvania, sendo um jogo que se passa na  floresta Amazônica onde o protagonista tem o objetivo de descobrir oque aconteceu o resto de sua equipe de biólogos.
 
 ## Ferramentas Utilizadas
 
